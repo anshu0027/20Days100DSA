@@ -4,6 +4,7 @@
 </br> </br>
 <strong> Day 01: </strong>
 </br>
+</br>
 - Palindrome Checker
 </br>
 - Power of Two
